@@ -1,0 +1,11 @@
+C:\Users\XxX\source\repos\Média-reps\Média-reps\bin\Debug\netcoreapp3.1\Média-reps.exe
+C:\Users\XxX\source\repos\Média-reps\Média-reps\bin\Debug\netcoreapp3.1\Média-reps.deps.json
+C:\Users\XxX\source\repos\Média-reps\Média-reps\bin\Debug\netcoreapp3.1\Média-reps.runtimeconfig.json
+C:\Users\XxX\source\repos\Média-reps\Média-reps\bin\Debug\netcoreapp3.1\Média-reps.runtimeconfig.dev.json
+C:\Users\XxX\source\repos\Média-reps\Média-reps\bin\Debug\netcoreapp3.1\Média-reps.dll
+C:\Users\XxX\source\repos\Média-reps\Média-reps\bin\Debug\netcoreapp3.1\Média-reps.pdb
+C:\Users\XxX\source\repos\Média-reps\Média-reps\obj\Debug\netcoreapp3.1\Média-reps.csprojAssemblyReference.cache
+C:\Users\XxX\source\repos\Média-reps\Média-reps\obj\Debug\netcoreapp3.1\Média-reps.AssemblyInfoInputs.cache
+C:\Users\XxX\source\repos\Média-reps\Média-reps\obj\Debug\netcoreapp3.1\Média-reps.AssemblyInfo.cs
+C:\Users\XxX\source\repos\Média-reps\Média-reps\obj\Debug\netcoreapp3.1\Média-reps.dll
+C:\Users\XxX\source\repos\Média-reps\Média-reps\obj\Debug\netcoreapp3.1\Média-reps.pdb
